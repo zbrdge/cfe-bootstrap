@@ -1,0 +1,15 @@
+[submodule "etc/shellfire/paths.d"]
+	path = etc/shellfire/paths.d
+	url = https://github.com/shellfire-dev/paths.d
+[submodule "lib/core"]
+	path = lib/core
+	url = https://github.com/shellfire-dev/core
+[submodule "lib/jsonreader"]
+	path = lib/jsonreader
+	url = https://github.com/shellfire-dev/jsonreader
+[submodule "lib/unicode"]
+	path = lib/unicode
+	url = https://github.com/shellfire-dev/unicode
+[submodule "lib/xmlwriter"]
+	path = lib/xmlwriter
+	url = https://github.com/shellfire-dev/xmlwriter
